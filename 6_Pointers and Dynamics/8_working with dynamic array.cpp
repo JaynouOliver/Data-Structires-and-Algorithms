@@ -20,7 +20,7 @@ int main(){
     // deleting array;
     delete[] array;
 
-    cout << array << endl;  
+    cout << array << endl;  // this still persists in the memory because it is in the stack memory of the program.
 
     return 0;
 }
