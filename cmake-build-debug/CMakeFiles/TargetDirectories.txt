@@ -1,3 +1,0 @@
-C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/cmake-build-debug/CMakeFiles/Data_Structires_and_Algorithms.dir
-C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/cmake-build-debug/CMakeFiles/rebuild_cache.dir
