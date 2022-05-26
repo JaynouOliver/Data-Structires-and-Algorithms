@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Data_Structires_and_Algorithms"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Data_Structires_and_Algorithms">
+				<Option output="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/cmake-build-debug/Data_Structires_and_Algorithms.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/06_Vectors"/>
+					<Add directory="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/19_Heaps or Priority Queues"/>
+					<Add directory="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/20_Hashing"/>
+					<Add directory="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/21_Trie Data Structure"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Data_Structires_and_Algorithms"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Data_Structires_and_Algorithms/fast">
+				<Option output="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/cmake-build-debug/Data_Structires_and_Algorithms.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/06_Vectors"/>
+					<Add directory="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/19_Heaps or Priority Queues"/>
+					<Add directory="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/20_Hashing"/>
+					<Add directory="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/21_Trie Data Structure"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 Data_Structires_and_Algorithms/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/01_Arrays/10_BruteForce.cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/01_Arrays/11_PrefixSums.cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/01_Arrays/12_Kadane&apos;s Algorithm .cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/01_Arrays/13_Vector Array .cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/01_Arrays/1_basic array .cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/01_Arrays/2_finding MAx &amp; MIN .cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/01_Arrays/3_sorting in arrays .cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/01_Arrays/4_searching in arrays .cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/01_Arrays/5_linearSearch .cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/01_Arrays/6_BinarySearch.cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/01_Arrays/7_Reverse_Array.cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/01_Arrays/8_Printing_Pairs.cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/01_Arrays/9_Printing_Subarrays.cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/02_Basic Sorting Techniques/1_Bubble Sort .cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/02_Basic Sorting Techniques/2_Insertion Sort .cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/02_Basic Sorting Techniques/3_Selection Sort .cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/02_Basic Sorting Techniques/4_Inbuilt Sort and Comparators .cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/02_Basic Sorting Techniques/5_Counting Sort .cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/03_Character Arrays or Strings/1_Using cin.get in C++  .cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/03_Character Arrays or Strings/2_Using cin.getline() in C++ .cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/03_Character Arrays or Strings/Character Arrays.cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/03_Character Arrays or Strings/Largest String.cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/03_Character Arrays or Strings/Run Length Encoding .cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/03_Character Arrays or Strings/count spaces digits words.cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/04_2D Arrays/1_2d arrays.cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/04_2D Arrays/2_2d character arrays.cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/04_2D Arrays/3_spiral print.cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/04_2D Arrays/5_Mango tree .cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/04_2D Arrays/Run length encoding.cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/04_2D Arrays/staircase search.cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/05_Pointers and Dynamics/1_pointers.cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/05_Pointers and Dynamics/2_pointers.cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/05_Pointers and Dynamics/4_reference variables.cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/05_Pointers and Dynamics/5_pass by reference.cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/05_Pointers and Dynamics/6_Pass by reference (pointers).cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/05_Pointers and Dynamics/7_dynamic 2d array.cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/05_Pointers and Dynamics/8_working with dynamic array.cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/06_Vectors/2d vector.cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/06_Vectors/demo.cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/06_Vectors/demoVector.cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/06_Vectors/vector class -1 .cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/06_Vectors/vector.h">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/07_Recursion/01_recursion.cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/07_Recursion/02_fibonnaci.cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/07_Recursion/03_isSortedArrayCheck.cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/17_Binary Tree/Binary Tree.cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/18_Binary Search Tree/Binary Search Tree.cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/19_Heaps or Priority Queues/Nearest Car Code/Nearest Car Code .cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/19_Heaps or Priority Queues/heap.h">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/19_Heaps or Priority Queues/heap_test.cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/20_Hashing/Hashtable.h">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/20_Hashing/hastabletest.cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/21_Trie Data Structure/trie.cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/21_Trie Data Structure/trie.h">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/22_Graphs/01_adj_list.cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/22_Graphs/02_adj_list.cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/22_Graphs/02_adj_list_node.cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/22_Graphs/03_bfsCode_.cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/22_Graphs/04_dfs search.cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/22_Graphs/05_Topological Ordering using BFS code.cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/22_Graphs/06_Dijkstra&apos;s Algorithm.cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/23_Dynamic Programmig/1_Coin Change.cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/23_Dynamic Programmig/2_Longest Common Subsequence Code.cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/23_Dynamic Programmig/3_Kanpsack Problem Code.cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/23_Dynamic Programmig/4_Wine Problem.cpp">
+			<Option target="Data_Structires_and_Algorithms"/>
+		</Unit>
+		<Unit filename="C:/Users/Subhr/Documents/GitHub/Data-Structires-and-Algorithms/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
